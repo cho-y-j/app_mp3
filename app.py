@@ -1,5 +1,6 @@
 import openai
 import streamlit as st
+openai migrate
 
 # API 키 설정
 openai.api_key = "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"
